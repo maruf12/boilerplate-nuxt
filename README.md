@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -74,7 +73,3 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-=======
-# boilerplate-nuxt
-Boilerplate with nuxt 4.1.3
->>>>>>> 39fc8c662d900040d8c1c23ef0765791f2e18d86
